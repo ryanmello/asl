@@ -145,19 +145,6 @@ asl/
 - **Non-blocking Transfer**: Asynchronous data transfer to device
 - **Gradient Accumulation**: Proper weighted loss calculation across batches
 
-## Future Improvements
-
-- [ ] Add learning rate scheduling
-- [ ] Implement early stopping
-- [ ] Add confusion matrix visualization
-- [ ] Support for real-time webcam inference
-- [ ] Experiment with other architectures (ResNet50, EfficientNet)
-- [ ] Add model evaluation metrics (precision, recall, F1-score)
-
-## License
-
-[Add your license here]
-
 ## Acknowledgments
 
 - ASL Alphabet dataset
