@@ -1,2 +1,7 @@
 torch==2.9.0
+torchvision
 numpy==2.3.4
+pandas
+matplotlib
+kaggle
+unzip
